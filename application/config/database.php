@@ -48,7 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'us-cdbr-azure-east-b.cloudapp.net';
 $db['default']['username'] = 'bb804f236c6c42';
 $db['default']['password'] = 'f4768187';
 $db['default']['database'] = 'suksawat';
